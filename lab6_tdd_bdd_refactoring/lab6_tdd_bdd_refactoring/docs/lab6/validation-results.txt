@@ -1,0 +1,10 @@
+## install (exit code 1)
+
+[33mWARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f9f6a8037a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/pytest/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f9f6a78fd60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/pytest/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f9f6a790620>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/pytest/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f9f6a790c60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/pytest/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7f9f6a821160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/pytest/[0m[33m
+[0m[31mERROR: Could not find a version that satisfies the requirement pytest (from versions: none)[0m[31m
+[0m[31mERROR: No matching distribution found for pytest[0m[31m
+[0m
